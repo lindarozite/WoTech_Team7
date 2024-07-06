@@ -1,7 +1,7 @@
 # WoTech_Team7
 WoTech program repository for Team 7
 
-![image](https://github.com/lindarozite/WoTech_Team7/assets/165931817/7edf2349-9768-47f5-99fe-49fe9decd517)
+[![image](https://github.com/lindarozite/WoTech_Team7/assets/165931817/7edf2349-9768-47f5-99fe-49fe9decd517)](https://www.thespruceeats.com/thmb/QjCQ4RTjmnhrovGkuJWzZCXYFX8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-90053856-588b7aff5f9b5874ee534b04.jpg)
 
 
 Members - Anita, Kristine, Linda, Marta
