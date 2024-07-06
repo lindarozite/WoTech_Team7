@@ -5,3 +5,6 @@ WoTech program repository for Team 7
 
 
 Members - Anita, Kristine, Linda, Marta
+
+Ladies have joined the WoTech program to find the right direction in IT field, explore and improve knowledge, learn new things, switch carrers and find out if IT is a shoe that fits. 
+
