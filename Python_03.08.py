@@ -59,3 +59,45 @@ longest_name_pokemon = pokemon_df[pokemon_df['Name Length'] == pokemon_df['Name 
 print(f'Pokémon with the longest name: {longest_name_pokemon["Name"].values[0]}')
 
 #Answer is: KangaskhanMega Kangaskhan
+
+#version3
+
+#1. How many Pokémons are with 'Type 1' == Water as a % of total?
+
+Water_pokemons = pokemon_df[pokemon_df['Type 1'] == 'Water']
+print(len(Water_pokemons))
+
+
+total_water_pokemons = len(Water_pokemons)
+print(total_water_pokemons)
+
+all_pokemons = len(pokemon_df)
+print(all_pokemons)
+
+
+Water_pokemons_percentage = (total_water_pokemons / all_pokemons) * 100
+
+
+
+
+print(f"Pokemons Type1 Water as a percentage of total: {Water_pokemons_percentage:.2f} % ")
+
+#2. What is the maximum 'Speed' value? 
+#What is the minimum 'Speed' value? 
+#What is the difference between max and min 'Speed'?
+
+min_speed_value = pokemon_df['Speed'].min()
+max_speed_value = pokemon_df['Speed'].max()
+difference_max_min = max_speed_value-min_speed_value
+print(min_speed_value)
+print(max_speed_value)
+print(difference_max_min)
+
+
+#3. Filter the DataFrame to include only the Pokémon with 'Speed' >= 80. 
+#How many Pokémon meet this criterion? 
+#Display this DataFrame using your preferred visualization method.
+
+
+Filtered_Data_Frame = pokemon_df[pokemon_df['Speed'] >= 80]
+print(len(Filtered_Data_Frame))
