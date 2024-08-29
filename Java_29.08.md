@@ -1,4 +1,4 @@
-/Code from UserRepo.java
+Code from UserRepo.java
 
 ```java
 package com.datorium.Datorium.API.Repo;
@@ -42,7 +42,7 @@ public class UserRepo {
     }
 }
 ```
-/Result:
+Result:
 
 <img width="190" alt="Screenshot 2024-08-29 at 22 36 06" src="https://github.com/user-attachments/assets/aa48eedb-977d-4228-8940-474565a08eea">
 
