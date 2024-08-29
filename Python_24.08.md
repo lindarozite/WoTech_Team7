@@ -1,3 +1,4 @@
+```py
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
@@ -20,3 +21,8 @@ print('Confusion Matrix:')
 print(conf_matrix)
 print('Classification Report:')
 print(class_report)
+```
+Result:
+
+<img width="1314" alt="Screenshot 2024-08-29 at 22 47 48" src="https://github.com/user-attachments/assets/842eb67b-d158-4544-bc1d-efff53f1b916">
+
