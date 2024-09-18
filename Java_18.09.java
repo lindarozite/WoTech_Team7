@@ -40,6 +40,3 @@ public class MathServiceTest {
 }
 
 
-    <img width="714" alt="Screenshot 2024-09-18 at 21 58 37" src="https://github.com/user-attachments/assets/a29fa417-c409-4aa7-b881-3cc480a7e5c9">
-
-
