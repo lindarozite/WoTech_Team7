@@ -25,7 +25,7 @@ public class MathServiceTest {
 
     @Test
     public void testSumBelow100() {
-        assertEquals(50, mathService.sum(10, 40), "Sum of 20 and 30 is 50");
+        assertEquals(50, mathService.sum(20, 30), "Sum of 20 and 30 is 50");
     }
 
     @Test
@@ -38,3 +38,8 @@ public class MathServiceTest {
         assertEquals(0, mathService.sum(70, 50), "Sum of 70 and 50 should be 0 because it exceeds 100");
     }
 }
+
+
+    <img width="714" alt="Screenshot 2024-09-18 at 21 58 37" src="https://github.com/user-attachments/assets/a29fa417-c409-4aa7-b881-3cc480a7e5c9">
+
+
